@@ -1,0 +1,41 @@
+# - Essentially, we should start off by making the sections where the user can log in with thier information . then place somewhere on the screen, an option for those who dont have an account yet, to go and create one. İ chose to do it this way because on most app or website it is done this way.
+
+                                                             # -LOG İN SECTİON-
+                                                          
+                                                          
+          #- in this section we are gonna put two blank spaces for the user to put :
+              
+          # 1rst- their username, e-mail or even their phone number.
+              
+          # 2nd-  their password.
+              
+          #- then after the user type in those informations,we are gonna check and see if they match any existing account with the same username or email                ect.
+              
+          #- And here there is three possibilities, either the information the user typed matched an already existing account and the password matchs and                its done.
+           
+          #- Or the users informations match an account but the password is wrong and in that case we are gonna ask the user try again until the                          password finally matches.
+            
+          
+          #- then the third possibility is the user's information doesnt match any account in the database. And so we can ask the user to either change                  their informations or create a new account.
+          
+          
+           # not : here we can also put an option  'forgot password' but i did not wanted to add that because then i would have explein how we can send                         an e-mail to the user to set a new password. But i dont want to get into that because im not enough educated to know how that process                       actually works yet.
+              
+              
+              
+              
+              
+                                              
+                                                                 # -SİNG UP SECTİON-
+              
+              
+              
+              
+              #- Just like the log in section we want to give the user some blank spaces to fill with their informations.
+              
+              # one that ask them to enter their surname, e-mail or phone number or any other type of register method.
+              
+              #Another blank space to enter their password( here we can put two blank spaces for the user to enter their password a second time to make sure                they typed in the right password. then if its matching then no problem, otherwise we'll tell the user that they dont match, so they can try                  again).
+              
+              #- Then if all the requierments are met, then the user can press the register button to register thier account, then their informations will                    be added/saved-/+ to the database so that in the future they can log in.
+              
